@@ -16,7 +16,7 @@ STM32 Nucleo-L76RG, C++ (OOP), LDR sensors, Li-ion batteries, BMS
 
 ### Media
 - 📊 Class Diagram: ![Class Diagram](media/Class_Diagram.png)
-- 🎥 [Demo Video](https://youtu.be/yyyy)
+- 🎥 [Demo Video](https://youtube.com/shorts/7ha--ajfWe0?feature=share)
 
 ### Contributions
 - Designed and programmed a solar tracking system on STM32 Nucleo-L76RG in C++ (OOP) using LDR sensors.
